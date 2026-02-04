@@ -7,7 +7,7 @@ distributions for:
 - Z → μ⁺μ⁻
 - H → b b̄
 
-The analysis uses Monte Carlo (MC) simulation and CMS-style plotting tools.
+The analysis uses Monte Carlo (MC) simulation(signal) and CMS-style plotting tools.
 
 ## File structure
 - `mu_and_Jet_check.ipynb`: Exploratory notebook used to inspect the ROOT file structure, validate branches, and produce basic kinematic sanity plots (pT, η, φ) for muons and jets.
